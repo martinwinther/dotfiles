@@ -31,7 +31,7 @@
     "disk",
     "separator",
     "wifi",
-    "publicip",
+//  "publicip",
     "localip",
   ]
 }
