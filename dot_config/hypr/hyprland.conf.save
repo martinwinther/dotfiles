@@ -1,4 +1,5 @@
 
+
 # #######################################################################################
 # #######################################################################################
 
@@ -180,7 +181,8 @@ bind = $mainMod, P, pseudo, # dwindle
 bind = $mainMod, J, togglesplit, # dwindle
 bind = $mainMod, B, exec, $browser
 bind = $mainMod, Z, exec, $editor
-
+bind = $mainMod, ;, exec, hyprctl dispatch dpms off 
+bind = $mainMod, ', exec, hyprctl dispatch dpms on
 
 # Move focus with mainMod + arrow keys
 bind = $mainMod, left, movefocus, l
