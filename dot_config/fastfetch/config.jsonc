@@ -24,6 +24,7 @@
     "terminalfont",
     "shell",
     "separator",
+    "board",
     "cpu",
     "gpu",
     "memory",   
