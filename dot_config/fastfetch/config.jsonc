@@ -89,7 +89,7 @@
     },
     {
       "type": "memory",
-      "color": "#BD93F9"
+      "keyColor": "#BD93F9"
     },
     {
       "type": "separator",
